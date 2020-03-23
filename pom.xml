@@ -62,7 +62,8 @@
                     </from>
                     <to>
                         <!--镜像名称和tag，使用了mvn内置变量${project.version}，表示当前工程的version-->
-                        <image>${project.build.finalName}:${project.version}</image>
+                        <!-- <image>${project.build.finalName}:${project.version}</image> -->
+                        <image>${project.artifactId}:${project.version}</image>
                     </to>
                     <!--容器相关的属性-->
                     <container>
