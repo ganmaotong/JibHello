@@ -74,6 +74,7 @@
                         <ports>
                             <port>8099</port>
                         </ports>
+                        <useCurrentTimestamp>true</useCurrentTimestamp>
                     </container>
                 </configuration>
             </plugin>
