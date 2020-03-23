@@ -74,7 +74,7 @@
                         <ports>
                             <port>8099</port>
                         </ports>
-                        <useCurrentTimestamp>true</useCurrentTimestamp>
+                        <creationTime>USE_CURRENT_TIMESTAMP</creationTime>
                     </container>
                 </configuration>
             </plugin>
